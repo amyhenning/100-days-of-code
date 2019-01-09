@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 8, 2018
+### Day 1: January 8, 2019
 
 **Today's Progress**:
 - Completed the simple tribute page project from FreeCodeCamp
