@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 9, 2019
+
+**Today's Progress**
+- Started and finished the product landing page project from FreeCodeCamp (made it into a mockup for the front-end of a future project I'm planning on working on)
+
+**Thoughts**
+- Getting more and more practice with flexbox and media queries has been great.
+
+**Link to work:**
+1. [Adoptable Dogs Nearby page](https://codepen.io/amyhenning/pen/PXdWoo)
+
 ### Day 1: January 8, 2019
 
 **Today's Progress**:
