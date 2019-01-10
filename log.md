@@ -3,10 +3,12 @@
 ### Day 2: January 9, 2019
 
 **Today's Progress**
+- Double-checked that projects from yesterday were passing all tests, and made some small adjustments to get them there
 - Started and finished the product landing page project from FreeCodeCamp (made it into a mockup for the front-end of a future project I'm planning on working on)
 
 **Thoughts**
 - Getting more and more practice with flexbox and media queries has been great.
+- While I've known how to work with CSS since high school, going through these exercises is helping it seem less overwhelming and helping me organize my code more efficiently.
 
 **Link to work:**
 1. [Adoptable Dogs Nearby page](https://codepen.io/amyhenning/pen/PXdWoo)
