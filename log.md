@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 10, 2019
+
+**Today's Progress**
+- Started and finished a responsive technical documentation page project from FreeCodeCamp
+
+**Thoughts**
+- Before I started on this, the finished product looked more complicated than it actually turned out to be. Yay for learning!
+- Using some of the RuboCop Ruby Style Guide to populate content for this product was also a learning experience for me in some Ruby styling conventions.
+
+**Link to work:**
+1. [Basic Ruby Styles](https://codepen.io/amyhenning/pen/maGwRb)
+
 ### Day 2: January 9, 2019
 
 **Today's Progress**
