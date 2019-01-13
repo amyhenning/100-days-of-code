@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 12, 2019
+
+**Today's Progress:**
+- Started and finished a quick portfolio page using flexbox. Didn't add in all the content I would have wanted, but the process gave me some design ideas for updating my existing portfolio site.
+
+**Thoughts:**
+- Simple design projects like this one are going faster with more and more practice. It's great to know that I'm solidifying and improving existing skills!
+
+**Link to Work:**
+1. [Portfolio Page](https://codepen.io/amyhenning/pen/jXQdqv)
+
 ### Day 4: January 11, 2019
 
 **Today's Progress:**
