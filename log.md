@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 13, 2019
+
+**Today's Progress:**
+- Continued working on backend Rails project.
+
+**Thoughts:**
+- There's a lot I don't know, and even more that I don't know I don't know. While I thought building a simple API from scratch would be no problem, it's proving very challenging because I haven't built one with any guidance before. I want to improve at this, and I learn best by doing, so I may create one following a tutorial first, then move toward building my own after I understand a basic structure and approach.
+
 ### Day 5: January 12, 2019
 
 **Today's Progress:**
