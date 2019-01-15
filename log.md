@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 15, 2019
+
+**Today's Progress:**
+- Started the "APIs and Building Your Own" section of The Odin Project.
+- Created initial structure for the simple Kittens RESTful API in the curriculum.
+
+**Thoughts:**
+- I'm enjoying the write-ups from the Odin Project's curriculum so far. It's interesting to delve into new curricula and pick and choose what I'm looking for, and this one is structured in such a way that that's both possible and easy.
+- I'm excited to learn from this project but also want to revisit yesterday's simple gem to see if I can expand its functionality without the tutorial.
+
+**Link to Work:**
+1. [Kittens!](https://github.com/amyhenning/odin-kittens)
+
 ### Day 7: January 14, 2019
 
 **Today's Progress:**
