@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 14, 2019
+
+**Today's Progress:**
+- Spent a _long_ time searching for a good, simple tutorial on creating an API client that wasn't just a simple Rails CRUD app.
+- Found some great resources on GoRails.com!
+- Followed [this tutorial](https://gorails.com/episodes/consuming-an-api-using-httparty-and-creating-a-gem) to build a simple Ruby Gem to interact with [Animatedgif.me](http://animatedgif.me)
+
+**Thoughts:**
+- The video tutorial was well-explained and concise. I had to do some debugging that I assume had something to do with the tutorial being over 4 years old, but all worked out fine in the end and the debugging was a good learning exercise, anyway.
+- I can now say that I've created a simple Ruby gem. :)
+- Still on the hunt for a good tutorial that walks you through creating an API client with authentication, though.
+
+**Link to Work:**
+1. [Animatedgifme Gem](https://github.com/amyhenning/animatedgifme)
+
 ### Day 6: January 13, 2019
 
 **Today's Progress:**
