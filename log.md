@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 16, 2019
+
+**Today's Progress:**
+- Re-read the "APIs and Building Your Own" section of The Odin Project.
+- Finished the simple RESTful API I started yesterday.
+
+**Thoughts:**
+- APIs are making a lot more sense now! Spending time reading about and working with them in various forms has been super helpful for my learning.
+
+**Link to Work:**
+1. [Live Kittens! Site](http://kittens-amy-henning.herokuapp.com/)
+
 ### Day 8: January 15, 2019
 
 **Today's Progress:**
