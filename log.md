@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 18, 2019
+
+**Today's Progress:**
+- Completed many simple JS exercises on FreeCodeCamp to get a firmer grasp on its formatting
+- Started another more complex Rails API project via the Odin Project
+
+**Thoughts:**
+- It's not that I can't or don't want to learn JavaScript... I just am less exposed to it than other languages. I also far prefer Ruby's clean formatting. However, I recognize the incredible value of JS and am determined to get a better grasp on it.
+- Considering making the new API project more complex than written in The Odin Project's lesson by not using a Gem. We'll see how that goes.
+
+**Link to Work:**
+- None today!
+
 ### Day 9: January 16, 2019
 
 **Today's Progress:**
