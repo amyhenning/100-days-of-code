@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 19, 2019
+
+**Today's Progress:**
+- Finished all Basic JavaScript exercises on FreeCodeCamp.
+- Made some small progress on my flickr-stream app.
+
+**Thoughts:**
+- JavaScript makes me yearn for the simplicity of Ruby syntax!
+- I enjoyed learning about switch statements a lot, and the Basic JS exercises were a good refresh and a good intro to several things that my bootcamp didn't cover and that I've never encountered in my own projects.
+- I need to spend more time solving algorithms!
+
+**Link to Work:**
+1. None today!
+
 ### Day 10: January 18, 2019
 
 **Today's Progress:**
