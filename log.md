@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 11: January 19, 2019
+### Day 12: January 19, 2019
+
+**Today's Progress:**
+- Realized my dates from the last two logs were wrong. Woops. Fixed that.
+- Spent a lot of time trying to figure out how to use the Flickraw gem in my flickr-stream project. As of now, it seems to be working to return photos from the Flickr API, but I still need to figure out how to get different properties of each photo, such as its URL.
+
+**Thoughts:**
+- For some reason, I had a hard time understanding the documentation for the Flickraw gem - this made my progress slower than anticipated today.
+- More Ruby exercises needed in the future.
+
+**Link to Work:**
+1. [flickr-stream so far](https://github.com/amyhenning/flickr-stream)
+
+### Day 11: January 18, 2019
 
 **Today's Progress:**
 - Finished all Basic JavaScript exercises on FreeCodeCamp.
@@ -14,7 +27,7 @@
 **Link to Work:**
 1. None today!
 
-### Day 10: January 18, 2019
+### Day 10: January 17, 2019
 
 **Today's Progress:**
 - Completed many simple JS exercises on FreeCodeCamp to get a firmer grasp on its formatting
