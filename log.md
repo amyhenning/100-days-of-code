@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 20, 2019
+
+**Today's Progress:**
+- Used the magic of irb to test FlickRaw responses and determine how to get the params I wanted to use in the Flickr Stream app's views.
+
+**Thoughts:**
+- Spending some time thinking through this through the lens of writing the API client helped me figure out what I wanted to do and how to get the information I needed.
+- Up next is adding error messages when a user doesn't exist.
+
+**Link to Work:**
+1. [flickr-stream so far](https://github.com/amyhenning/flickr-stream)
+
 ### Day 12: January 19, 2019
 
 **Today's Progress:**
