@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 21, 2019
+
+**Today's Progress:**
+- Took some strategic steps to figure out how to handle errors from the Flickr API on my flickr-stream app. First, figured out how to render a json error if the API returned "user not found." Then moved on to separating the views into partials to render based on the API's response.
+
+**Thoughts:**
+- Lots of Googling and learning from how others have structured similar apps today.
+- Building this app was great practice doing a self-guided project with unfamiliar territory: Flickr's API, handling errors, and practicing with partial views.
+
+**Link to Work:**
+1. [flickr-stream repo](https://github.com/amyhenning/flickr-stream)
+2. [flickr-stream live site](https://flickr-stream-amy-henning.herokuapp.com/)
+
 ### Day 13: January 20, 2019
 
 **Today's Progress:**
