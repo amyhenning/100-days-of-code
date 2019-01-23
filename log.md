@@ -11,7 +11,7 @@
 - Regular expressions are still largely inscrutable to me. I am planning to redo the regex section on FreeCodeCamp and take careful, color-coded notes by hand. Maybe after that I'll study up on regex syntax in Ruby and make a comparison guide to really solidify the concepts and syntax in both languages.
 
 **Link to Work:**
-1. None today!
+1. [Practice with ES6 arrow functions](https://github.com/amyhenning/javascript/blob/master/squaredIntegers.js)
 
 ### Day 14: January 21, 2019
 
