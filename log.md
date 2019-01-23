@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 22, 2019
+
+**Today's Progress:**
+- Refactored flickr-stream partial to use image_tags in link_to tags.
+- Completed lots of JS exercises (ES6 and regex) on FreeCodeCamp.
+
+**Thoughts:**
+- I am looking forward to getting used to JS's syntax. Right now, it still hurts my eyes.
+- Regular expressions are still largely inscrutable to me. I am planning to redo the regex section on FreeCodeCamp and take careful, color-coded notes by hand. Maybe after that I'll study up on regex syntax in Ruby and make a comparison guide to really solidify the concepts and syntax in both languages.
+
+**Link to Work:**
+1. None today!
+
 ### Day 14: January 21, 2019
 
 **Today's Progress:**
