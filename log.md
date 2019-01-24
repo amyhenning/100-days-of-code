@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 23, 2019
+
+**Today's Progress:**
+- Practiced a bunch with regular expressions: redid the FreeCodeCamp exercises and took notes this time, then began interactive lessons on regexone.com
+
+**Thoughts:**
+- I really do need to take notes more often - this helped a lot with remembering regex syntax.
+
+**Link to Work:**
+1. None for today!
+
 ### Day 15: January 22, 2019
 
 **Today's Progress:**
