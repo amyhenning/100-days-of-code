@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 24, 2019
+
+**Today's Progress:**
+- Worked through several debugging JS lessons on FreeCodeCamp.
+- It had been a while since I'd done any Ruby coding challenges, so I did a couple from Codewars.
+
+**Thoughts:**
+- I really need to make Ruby challenges a standard part of my daily routine - both to keep my Ruby skills sharp and maybe even apply some things I just learned, like regular expressions.
+
+**Link to Work:**
+1. [Nexus of Codewars Solution](https://github.com/amyhenning/coding-challenges/blob/master/nexus.rb)
+2. [Multiplication Table Solution](https://github.com/amyhenning/coding-challenges/blob/master/multiplication_table.rb)
+
 ### Day 16: January 23, 2019
 
 **Today's Progress:**
@@ -160,7 +173,7 @@
 
 **Link to Work:**
 1. [Find a Pet API Client](https://github.com/amyhenning/find-a-pet-api)
-2. _Will post my string to integer code in a Gist soon_
+2. [String to Integer Without .to_i](https://github.com/amyhenning/coding-challenges/blob/master/string_to_integer.rb)
 
 ### Day 3: January 10, 2019
 
