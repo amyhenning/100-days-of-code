@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 25, 2019
+
+**Today's Progress:**
+- Completed Basic Data Structures on FreeCodeCamp and started working through the Basic Algorithm Scripting section.
+
+**Thoughts:**
+- The Basic Data Structures section helped me take a step back and think about parsing JSON strings differently, while also helping me see how concepts I'm familiar with in Ruby are applied in JavaScript
+- The Basic Algorithm Scripting section contains challenges I've completed in both JS and Ruby, so it was just some good review and practice with JS syntax.
+
+**Link to Work:**
+1. [JavaScript challenges (some were completed for my bootcamp, some today)](https://github.com/amyhenning/javascript)
+
 ### Day 17: January 24, 2019
 
 **Today's Progress:**
