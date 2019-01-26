@@ -6,7 +6,7 @@
 - Completed Basic Data Structures on FreeCodeCamp and started working through the Basic Algorithm Scripting section.
 
 **Thoughts:**
-- The Basic Data Structures section helped me take a step back and think about parsing JSON strings differently, while also helping me see how concepts I'm familiar with in Ruby are applied in JavaScript
+- The Basic Data Structures section helped me take a step back and think about looking at JSON  differently, while also helping me see how concepts I'm familiar with in Ruby are applied in JavaScript
 - The Basic Algorithm Scripting section contains challenges I've completed in both JS and Ruby, so it was just some good review and practice with JS syntax.
 
 **Link to Work:**
