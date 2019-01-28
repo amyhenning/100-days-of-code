@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 27, 2019
+
+**Today's Progress:**
+- Finished the Basic Algorithm Scripting section on FreeCodeCamp!
+- Made a small step toward improving the user experience on my personal project and started documenting my progress for a future blog post.
+
+**Thoughts:**
+- I feel much more at home with ES6 syntax now.
+- The prospect of using jQuery for my personal project (it's one option I'm considering moving forward with) is frightening. I struggled with jQuery the most in my bootcamp, so I know it'll be good practice but... I also just don't like it. More exploration on that to come tomorrow, though.
+
+**Link to Work:**
+1. [JavaScript challenges (some were completed for my bootcamp, some on FCC)](https://github.com/amyhenning/javascript)
+
+
+### Day 19: January 26, 2019
+
+**Today's Progress:**
+- Completed Basic Data Structures and started Basic Algorithm Scripting on FreeCodeCamp
+- Returned to a personal project I haven't worked on in a while. My goal for improving the project is to smooth out the user experience with adding bookmarks - I'd ideally like to learn enough to eliminate page refreshes altogether when a user adds or removes a bookmark using a button.
+
+**Thoughts:**
+- JS syntax is making a lot more sense to me - I appreciate how the Data Structures and Basic Algorithms sections on FreeCodeCamp build off of one another in order to support more independence in students.
+- Going back to an old project is a rude awakening - I forgot a lot about what I wrote a while back, so I've had to refamiliarize myself with the code while also researching how to improve it.
+
+**Link to Work:**
+1. [JavaScript challenges (some were completed for my bootcamp, some on FCC)](https://github.com/amyhenning/javascript)
+
+
 ### Day 18: January 25, 2019
 
 **Today's Progress:**
