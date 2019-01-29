@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 28, 2019
+
+**Today's Progress:**
+- Completed a Codewars challenge in Ruby
+- Did some more research on (potentially) using jQuery to implement the improved bookmark functionality on my personal project.
+
+**Thoughts:**
+- Coding later in the day meant that my commit streak on Github is broken due to the UTC timestamps. :( The blank space is going to bother me.
+- Taking a step back and looking at AJAX calls in Rails with some resources made the prospect of implementing it a bit less scary than yesterday.
+
+**Link to Work:**
+1. [Simple Transposition](https://github.com/amyhenning/coding-challenges/blob/master/simple_transposition.rb)
+
 ### Day 20: January 27, 2019
 
 **Today's Progress:**
