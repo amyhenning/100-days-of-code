@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 29, 2019
+
+**Today's Progress:**
+- Worked on some Ruby kata on CodeWars
+- Researched more and experimented a bit with using jQuery and ajax calls to delete records in my Kittens! app from a while ago - practice for implementing this on KAD-Library for bookmarking/unbookmarking resources
+
+**Thoughts:**
+- I get nervous about making a big change to a more complex app and sort of just don't want to start. Trying out some things and successfully debugging issues with my jQuery on a simpler app was confidence-boosting and good practice.
+
+**Link to Work:**
+1. [Updated Kittens!](https://github.com/amyhenning/odin-kittens)
+
 ### Day 21: January 28, 2019
 
 **Today's Progress:**
