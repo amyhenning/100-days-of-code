@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 30, 2019
+
+**Today's Progress:**
+- Began implementing bookmarking buttons on KAD-Library using jQuery!
+
+**Thoughts:**
+- It was very easy to put this off for a while since jQuery intimidates me. However, I am finding that the more I work with it, the more I feel comfortable (same as anything else, really).
+- The blocker I'm stuck on now is how to efficiently get bookmark IDs and use them to create unique id tags for favorites to be used by jQuery. This may require some restructuring of how resources are displayed on the site.
+
+**Link to Work:**
+1. [Very incomplete progress on KAD-Library](https://github.com/amyhenning/kad-library/commit/b9d48c56beb8e3e92005c512f3d515f178d13dbc)
+
 ### Day 22: January 29, 2019
 
 **Today's Progress:**
