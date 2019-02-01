@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 31, 2019
+
+**Today's Progress:**
+- Lots of trial and error with adding jQuery to existing app.
+
+**Thoughts:**
+- It's definitely tough to implement a new feature in an existing codebase. :|
+- Today was more frustrating than most recent days, but I hope that sleeping on it helps.
+
+**Link to Work:**
+Nothing new or notable to share today.
+
 ### Day 23: January 30, 2019
 
 **Today's Progress:**
