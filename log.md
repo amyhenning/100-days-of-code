@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 1, 2019
+
+**Today's Progress:**
+- After a discouraging day yesterday, I went ahead and tried out restructuring some things (per the model in [this blog post](https://www.topdan.com/ruby-on-rails/ajax-toggle-buttons.html)) to get jQuery favorites to work.
+- IT WORKS NOW!
+- Also finished the OOP section on FreeCodeCamp for an easy win to warm up before working on the favorites.
+
+**Thoughts:**
+- The feature working is even better because it was difficult to implement. I learned a lot while working on this, too.
+- Perhaps I'll next give this a shot with reviews.
+
+**Link to Work:**
+1. [See the bookmark feature live!](http://kad-library.herokuapp.com)
+
 ### Day 24: January 31, 2019
 
 **Today's Progress:**
