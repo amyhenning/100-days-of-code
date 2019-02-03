@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 2, 2019
+
+**Today's Progress:**
+- Began the Functional Programming section of FreeCodeCamp
+
+**Thoughts:**
+- JS is sometimes still very confusing. I still feel like I'm constantly learning new things about it but it helps to think about how the things I learn compare to features of Ruby.
+
+**Link to Work:**
+1. Nothing today.
+
 ### Day 25: February 1, 2019
 
 **Today's Progress:**
