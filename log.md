@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 3, 2019
+
+**Today's Progress:**
+- Completed Functional Programming on FreeCodeCamp
+
+**Thoughts:**
+- Learning JS has become much more fun over time. Taking notes always, always helps me absorb new things better.
+- I am puzzled by currying and partial application. Will revisit or look for more resources on these two soon.
+
+**Link to Work:**
+1. [Solutions to some Functional Programming JS exercises here](https://github.com/amyhenning/javascript)
+
 ### Day 26: February 2, 2019
 
 **Today's Progress:**
