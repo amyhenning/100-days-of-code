@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 4, 2019
+
+**Today's Progress:**
+- Completed some algorithms on FreeCodeCamp in JS.
+
+**Thoughts:**
+- I am enjoying the MDN docs very much. I wish Ruby's were as easy to parse quickly.
+- I dreamed about Rspec tests and JS `for` loops last night, so I must be doing _something_ right.
+
+**Link to Work:**
+1. [Solutions to some Functional Programming JS exercises here](https://github.com/amyhenning/javascript)
+
 ### Day 27: February 3, 2019
 
 **Today's Progress:**
