@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 29: February 5, 2019
+
+**Today's Progress:**
+- More algorithms!
+
+**Thoughts:**
+- I'd like to get into a less linear approach to programming - not solely focusing on a project or coding challenges, but doing a bit of both each day.
+
+**Link to Work:**
+1. [Solutions to some Functional Programming JS exercises here](https://github.com/amyhenning/javascript)
+
 ### Day 28: February 4, 2019
 
 **Today's Progress:**
