@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 6, 2019
+
+**Today's Progress:**
+- More algorithms.
+
+**Thoughts:**
+- I'm getting stuck in this pattern of doing algorithms because I'm indecisive about starting a blog vs. redesigning my portfolio vs. continuing to extend and improve personal projects. My list of things I want to do is so long that I am kind of in a state of paralysis.
+
+**Link to Work:**
+1. [Solutions to some Functional Programming JS exercises here](https://github.com/amyhenning/javascript)
+
 ### Day 29: February 5, 2019
 
 **Today's Progress:**
