@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 7, 2019
+
+**Today's Progress:**
+- Algorithms on FreeCodeCamp
+- Bought domain name!
+- Created the initial skeleton for a site built with Jekyll following the tutorial on their site.
+
+**Thoughts:**
+- Today I decided to work on the more time-sensitive things (i.e., my desired domain name could get taken and I'd like to update my personal site ASAP) to get moving. I may not focus purely on this project over the next several weeks but it's a start!
+
+**Link to Work:**
+1. [Solutions to some Functional Programming JS exercises here](https://github.com/amyhenning/javascript)
+2. [Started very basic skeleton of Jekyll site](https://github.com/amyhenning/amyhenning.io)
+
 ### Day 30: February 6, 2019
 
 **Today's Progress:**
