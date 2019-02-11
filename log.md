@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 10, 2019
+
+**Today's Progress:**
+- Added custom fonts to personal site, made some small structural changes, and continued ideation for layouts and color schemes
+
+**Thoughts:**
+- Taking a bit of a break from coding incessantly this weekend was a good thing for my brain and mood.
+
+**Link to Work:**
+1. None today!
+
+### Day 32: February 8, 2019
+
+**Today's Progress:**
+- Spent a lot of time wireframing and previewing color schemes for personal site
+
+**Thoughts:**
+- Wireframing is interesting as an exercise in how well I know things like CSS flexbox - I try to envision the code I'd need while creating the draft visuals
+
+**Link to Work:**
+1. None today!
+
 ### Day 31: February 7, 2019
 
 **Today's Progress:**
