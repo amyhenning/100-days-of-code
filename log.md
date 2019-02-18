@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Days 34 - 40: February 11-17
+
+**Today's Progress:**
+- This is actually about a week's worth of updates, but it'll be brief. I took a small hiatus from checking Twitter constantly (something I've started doing since beginning this challenge), and it was wonderful for clearing my mind. I spent this week primarily working on my first project with an Angular front-end and a Rails back-end and also made good progress in the Intermediate Algorithm Scripting section of FreeCodeCamp's JavaScript Data Structures and Algorithms certification.
+
+**Thoughts:**
+- Like I wrote above, taking a break from tracking everything and instead focusing on the code was a good change of pace for me this week.
+- Diving into an existing Angular/Rails application and adding features was more complex than I thought. I think I did alright for it being my first time working with Angular, though.
+- I have a blog post waiting to be written and don't want to wait till I have my personal site up and running, so I'll probably write that up on Medium this week and add it to my site later.
+
+**Link to Work:**
+1. [Solutions to some algorithms in JavaScript](https://github.com/amyhenning/javascript)
+
+
 ### Day 33: February 10, 2019
 
 **Today's Progress:**
