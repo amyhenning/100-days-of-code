@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 18, 2019
+
+**Today's Progress:**
+- Solved an algorithm on FreeCodeCamp to warm up
+- Wrote drafts of a few blog posts to finish up a series on OOP basics I started a LONG time ago...
+
+**Thoughts:**
+- Writing the blog posts and creating code snippets to illustrate concepts was a great review of OOP principles.
+- I've been using Evernote as a way to house my draft blog posts. I'd like to get ahead of myself and have several drafts essentially ready to publish so I become a more regular blogger.
+- I also needed to move past some perfectionism in getting these drafts ready - ideally, I'd want my personal site to be up and running, but I am going to post them to Medium in the meantime and then back-date them on my site once it's ready.
+
+**Link to Work:**
+1. [Solutions to algorithms in JavaScript](https://github.com/amyhenning/javascript)
+
+
 ### Days 34 - 40: February 11-17
 
 **Today's Progress:**
