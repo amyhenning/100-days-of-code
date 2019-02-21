@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 43: February 20, 2019
+
+**Today's Progress:**
+- Worked on personal site - particularly focused on essential style elements based on wireframes and my vision for how the site will look eventually
+
+**Thoughts:**
+- It's been a lot of fun to get back to some front-end work and to practice working with Jekyll again!
+- I need to figure out how to put an "under construction" message on my site for now... Something to work on tomorrow!
+
+**Link to Work:**
+1. None today!
+
+### Day 42: February 19, 2019
+
+**Today's Progress:**
+- Worked on JS algorithms!
+
+**Thoughts:**
+- Algorithms are great but I am feeling a need to get back to some creative work.
+
+**Link to Work:**
+1. None today!
+
 ### Day 41: February 18, 2019
 
 **Today's Progress:**
