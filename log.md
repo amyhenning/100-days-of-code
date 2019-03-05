@@ -1,5 +1,98 @@
 # 100 Days Of Code - Log
 
+### Day 52: March 4, 2019
+
+**Today's Progress:**
+- Today I made a conscious decision to focus only on the portfolio page of my site.
+- Mocked up layouts for displaying projects I've created, and created a couple different options for how I'll eventually list out skills / tools used for each project.
+
+**Thoughts:**
+- After a few days of indecision, I just decided to go for it. I copied a fellow 100-days-of-coder's approach to mocking up her site to get the layout set up before adding content, and that has helped a lot!
+
+**Link to Work:**
+1. None yet!
+
+### Day 51: March 2, 2019
+
+**Today's Progress:**
+- Spent a lot of time agonizing over navbar styles and media queries for it.
+
+**Thoughts:**
+- See yesterdday's thoughts!
+
+**Link to Work:**
+1. None yet!
+
+### Day 50: March 1, 2019
+
+**Today's Progress:**
+- Small adjustments to personal website.
+
+**Thoughts:**
+- Small changes are hard to keep track of! I also am worried that I'll never be fully satisfied with my site. :|
+
+**Link to Work:**
+1. None yet!
+
+### Day 49: February 28, 2019
+
+**Today's Progress:**
+- More styles for my site!
+
+**Thoughts:**
+- Design work slows me down so much. It's so hard to make decisions on how I want things to look!
+
+**Link to Work:**
+1. None today!
+
+### Day 48: February 27, 2019
+
+**Today's Progress:**
+- Skipped coding on the 26th because of migraine. :(
+- Worked on some styles for my personal site.
+
+**Thoughts:**
+- It is really hard to focus on code when I'm feeling sick/have a headache. Blah.
+
+**Link to Work:**
+1. None today!
+
+### Day 47: February 25, 2019
+
+**Today's Progress:**
+- Worked on debugging some Angular tests!
+
+**Thoughts:**
+- Slowing down to articulate my thoughts/understanding of code out loud is a very helpful exercise.
+
+**Link to Work:**
+1. Nothing really to link from this day's work!
+
+### Day 46: February 24, 2019
+
+**Today's Progress:**
+- Spent several hours reviewing concepts in preparation for a technical interview.
+- Lots of review of CSS terms, JavaScript concepts, and data structures. Oh, also the HTTP request cycle for Rails apps.
+- Wrote some code to iteratively and recursively find the length of a singly-linked list. This all made SO much more sense to me than during my bootcamp.
+
+**Thoughts:**
+- I really enjoyed this prep work. I got to nerd out and learn some new things while also solidifying and reviewing other concepts!
+- I had the beginnings of a migraine while working on this, which made my eyesight a little blurry. I'm attributing this to stress.
+
+**Link to Work:**
+1. Nothing really to share from this day.
+
+### Days 44 and 45: February 21 and 22, 2019
+
+**Today's Progress:**
+- Worked on my personal site - namely, on styling. Flexbox makes me happy.
+
+**Thoughts:**
+- It's hard not to be paralyzed by perfectionism with design! 
+
+**Link to Work:**
+1. None yet!
+
 ### Day 43: February 20, 2019
 
 **Today's Progress:**
