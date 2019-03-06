@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 53: March 5, 2019
+
+**Today's Progress:**
+- Completed a JS algorithm on FreeCodeCamp
+- Dug into the minutiae of margins on my personal site
+
+**Thoughts:**
+- I am still finding it hard to balance solving coding challenges/algorithms and working on projects.
+- Not having touched a JS algorithm for several days meant today was a rather rude awakening!
+
+**Link to Work:**
+1. None yet!
+
 ### Day 52: March 4, 2019
 
 **Today's Progress:**
