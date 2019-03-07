@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 54: March 6, 2019
+
+**Today's Progress:**
+- FINALLY got the portfolio page of my personal site to a place where I feel good about the responsiveness/media queries.
+- Started adding actual content (app screenshots + titles) to the portfolio page.
+
+**Thoughts:**
+- It has been really helpful for my progress to focus on one aspect of the site at a time. I'm nearly done with the portfolio piece, so I'll have to decide what's next (possibly the nav - it's bothering me at small screen sizes :|).
+
+**Link to Work:**
+1. You can see a gif of the responsive design at [this tweet](https://twitter.com/henningamy/status/1103528846463197184)!
+
 ### Day 53: March 5, 2019
 
 **Today's Progress:**
