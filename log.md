@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 57: March 13, 2019
+
+**Today's Progress:**
+- Solved a couple more JS algorithms and started outlining topics for my blog posts about job searching as a bootcamp graduate!
+
+**Thoughts:**
+- Blog posts are hard. It's hard to put your experience and opinions out there! I have had a bit of writer's block but these outlines should help me move forward again.
+
+**Link to Work:**
+1. [Roman Numeral Converter Project - needed some help on this one; the comments demonstrate my understanding of the code](https://github.com/amyhenning/free-code-camp-projects/blob/master/javascript-projects/romanNumeral.js)
+2. [Caesar's Cipher Project](https://github.com/amyhenning/free-code-camp-projects/blob/master/javascript-projects/caesarsCipher.js)
+
+### Day 56: March 12, 2019
+
+**Today's Progress:**
+- Solved some JS algorithms. I had a lot of fun with the orbital period challenge. Reminded me of why I loved math as a kid!
+
+**Thoughts:**
+- I suffer a lot from imposter syndrome when it comes to CS concepts and advanced math. I did well in math all through high school and took all the AP calculus classes that were available at the time and got 5s on both of them. Somehow, when I went to college and didn't have any geneds (thanks, Grinnell), I decided to shy away from math and science and read books and learn about languages. Those aren't bad, but I do think that I avoided math and science out of a deep fear of failure when confronted with the rigor of coursework at Grinnell. Also, I took a calculus-based stats class that I had no business or interest in being in. :| The choices of 18 and 19-year-old me are puzzling.
+
+**Link to Work:**
+1. [Orbital Period challenge solution](https://github.com/amyhenning/javascript/blob/master/orbitalPeriod.js)
+2. [Palindrome Checker Project](https://github.com/amyhenning/free-code-camp-projects/blob/master/javascript-projects/palindrome.js)
+
+### Day 55: March 7, 2019
+
+**Today's Progress:**
+- Populated content onto my site's portfolio section, and did a little bit of thinking on some JS algorithms.
+
+**Thoughts:**
+- I was a bit distracted because I found out I received an Opportunity Scholarship to attend RailsConf this year! Hoping I can make it work with tne new job.
+
+**Link to Work:**
+1. None today!
+
 ### Day 54: March 6, 2019
 
 **Today's Progress:**
