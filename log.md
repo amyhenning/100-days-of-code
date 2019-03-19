@@ -1,5 +1,38 @@
 # 100 Days Of Code - Log
 
+### Day 60: March 18, 2019
+**Today's Progress:**
+- Finished the telephone number checker algorithm and got started on the cash register algorithm. I'm SO close to finishing the JS algorithms and data structures track on FreeCodeCamp!
+
+**Thoughts:**
+- I used the handwritten notes I took on regex earlier this year in solving the telephone number algorithm. I needed a few hints to get the regex looking right and now see how my code wasn't specific enough to catch some of the edge case tests.
+
+**Link to Work:**
+1. [Telephone Number Checker Algorithm](https://github.com/amyhenning/free-code-camp-projects/blob/master/javascript-projects/telephoneCheck.js)
+
+### Day 59: March 15, 2019
+**Today's Progress:**
+- Finished editing my first blog post about my job search.
+- Worked on a little big of an algorithm, just to keep my brain engaged with actual code.
+
+**Thoughts:**
+- The blog post was very much less widely-read than anticipated. I have no idea how to manage social media stuff like this, so it'll be a bit of trial and error from here on out to make things more engaging and eye-catching.
+
+**Link to Work:**
+1. [Blog post!](https://medium.com/@amyhenning/from-curriculum-to-coding-part-i-4d6eb226b2e)
+
+### Day 58: March 14, 2019
+
+**Today's Progress:**
+- Worked on the next JS algorithms project on FreeCodeCamp
+- Drafted my first blog post on my post-graduation job search
+
+**Thoughts:**
+- I write a lot. I'm an English major and never really learned how not to be verbose. I feel like I need to do better at editing/outlining my blog posts for readability's sake.
+
+**Link to Work:**
+1. None today
+
 ### Day 57: March 13, 2019
 
 **Today's Progress:**
