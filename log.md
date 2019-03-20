@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 61: March 19, 2019
+**Today's Progress:**
+- Got a high-level approach to the cash register algorithm written out.
+
+**Thoughts:**
+- Not going to lie, the cash register algorithm is a little bit intimidating. I focused on breaking up the problem into chunks and writing high-level logic that I'm sure I'll refactor at some point. For now, it's helpful to have some thoughts in my code editor.
+
+**Link to Work:**
+1. [Cash Register so far](https://github.com/amyhenning/free-code-camp-projects/blob/master/javascript-projects/cashRegister.js)
+
 ### Day 60: March 18, 2019
 **Today's Progress:**
 - Finished the telephone number checker algorithm and got started on the cash register algorithm. I'm SO close to finishing the JS algorithms and data structures track on FreeCodeCamp!
