@@ -3,6 +3,7 @@
 ### Day 61: March 19, 2019
 **Today's Progress:**
 - Got a high-level approach to the cash register algorithm written out.
+- Drafted my second blog post about my job search.
 
 **Thoughts:**
 - Not going to lie, the cash register algorithm is a little bit intimidating. I focused on breaking up the problem into chunks and writing high-level logic that I'm sure I'll refactor at some point. For now, it's helpful to have some thoughts in my code editor.
